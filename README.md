@@ -47,7 +47,9 @@ rlalastjd782/@rlalastjd782 (rlalastjd782@naver.com)
 - 추후 추가예정()
 
 # Data(Send & Receive) Flow
-<img width="60%" alt="image" src="https://user-images.githubusercontent.com/101306770/171776673-0ead9d52-0b1c-4690-a4f9-7b323bbfe568.png">
+<img width="60%" alt="스크린샷 2022-06-03 오전 11 56 31" src="https://user-images.githubusercontent.com/101306770/171777744-d1177830-ff24-42f2-9305-dcec306175ba.png">
+<img width="60%" alt="스크린샷 2022-06-03 오전 11 56 26" src="https://user-images.githubusercontent.com/101306770/171777783-bf554128-217a-4259-b54f-2463c9c737a8.png">
+
 
 - 파일을 실행시키기에 앞서, 전반적인 데이터들의 상호작용(흐름)에 대하여 작성해본 사진입니다.<br/>
 
