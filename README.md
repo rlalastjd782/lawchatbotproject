@@ -11,12 +11,11 @@ It can Explain about Words of Standard law from South Korea
 | 2nd Additional Data  |Legal Terms Data |https://www.data.go.kr/data/15069932/fileData.do (공공데이터 포털)|
 
 # Author
-Ian/@Ian (aoa8538@gmail.com)
+rlalastjd782/@rlalastjd782 (rlalastjd782@naver.com)
 
 # Requirement
 - 사용된 툴은 다음과 같습니다.<br/>
   - Python 3.7.9
-  - Tensorflow 2.4.1
   - pandas
   - numpy
   - sys
