@@ -35,22 +35,23 @@ Ian/@Ian (aoa8538@gmail.com)
 
 
 # Design
-<img src="https://user-images.githubusercontent.com/79067558/108025412-c988e100-7069-11eb-8fbd-6903ef0ee0ce.png" width="60%">
-<img src="https://user-images.githubusercontent.com/79067558/108144214-951a3100-710c-11eb-9289-41c0f421b2a4.png" width="60%"><br/>
-- 디자인은 상위에 소개된 사진과 같으며, 반드시 'chatbot.py'와 'index.js' 이 두 파일을 모두 실행해주셔야 구동됩니다.<br/>
-- 챗봇의 전반적인 구동 방식은 'chatbot.py'파일에 수록해놓았으니 참조 바랍니다.<br/>
-- 또한 웹 구동 방식 및, 디자인 CSS소스를 비롯하여 'views' 디렉토리 내에 있는 'index.ejs'에 입력 및 설명되어 있으니 참고 하시면 되겠습니다.
+<img width="60%" alt="스크린샷 2022-06-03 오전 11 38 32" src="https://user-images.githubusercontent.com/101306770/171775940-cf5d34ca-8db6-4c7f-a078-7804f3326e8a.png">
+
+- 디자인은 상위에 소개된 사진과 같으며,필수 라이브러리를 설치 후에 'maincode.py'를 실행해주시면됩니다.<br/>
+- 챗봇의 전반적인 코드 설명은 'maincode.py'파일에 수록해놓았으니 참조 바랍니다.<br/>
+
 
 # Video(How to work)
 - 구동 영상을 촬영해보았습니다 :)<br/>
 - I filmed a video(How to work) :)<br/>
 - 클릭을 하시면, 동영상이 재생됩니다. (If you click, The video will play.) <br/>
-[![Upload](http://img.youtube.com/vi/yqh6l9gdK9A/0.jpg)](https://youtu.be/yqh6l9gdK9A?t=0s) 
+- 추후 추가예정()
 
 # Data(Send & Receive) Flow
-<img src="https://user-images.githubusercontent.com/79067558/108029757-61d69400-7071-11eb-8a82-4d0d27512b6c.png" width="60%"><br/>
+<img width="60%" alt="image" src="https://user-images.githubusercontent.com/101306770/171776673-0ead9d52-0b1c-4690-a4f9-7b323bbfe568.png">
+
 - 파일을 실행시키기에 앞서, 전반적인 데이터들의 상호작용(흐름)에 대하여 작성해본 사진입니다.<br/>
-- 이 그림을 참조하신 후, 앞서 상위 카테고리들로부터 설명한 파일들을 구동시키시면 이해가 훨씬 수월해지실 것 같아 작성했습니다.
+
 
 # Languages
 - JavaScript, Python 이렇게 2개의 랭귀지로 개발되었습니다.<br/>
