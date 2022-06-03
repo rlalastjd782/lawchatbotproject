@@ -1,6 +1,5 @@
-# Web-ChatBot-Bell- (Korean ver.)
-It can Explain about Words of Standard law from South Korea
-- 이것은 대한민국에서 적용되는 법률의 스탠다드 용어들에 대하여 설명하는 챗봇입니다.
+# Kakao chat bot project(law) 
+- 이것은 대한민국에서 적용되는 법률의 스탠다드 용어와 서식들에 대하여 설명하는 챗봇입니다.
 
 # Learning Data
 |Title|Contents|From|
@@ -9,6 +8,7 @@ It can Explain about Words of Standard law from South Korea
 |Basic Sources From|DeFault ChatBot Data Source|https://github.com/songys/Chatbot_data (송영숙님)|
 | 1st Additional Data  |Additional Data Sources for ChatBot system|https://korquad.github.io/ (KorQuAD)|
 | 2nd Additional Data  |Legal Terms Data |https://www.data.go.kr/data/15069932/fileData.do (공공데이터 포털)|
+| 3rd Additional Data  |Legal Terms Data |https://www.klac.or.kr/legalinfo/counsel.do  (법률구조공단)|
 
 # Author
 rlalastjd782/@rlalastjd782 (rlalastjd782@naver.com)
@@ -31,7 +31,7 @@ rlalastjd782/@rlalastjd782 (rlalastjd782@naver.com)
 ├── ChatBotData.csv:&nbsp;&nbsp;&nbsp;&nbsp; '송경숙'님의 데이터 소스(소스 경로는 상위 'Learning Data' 파트에 명시했습니다.).<br/>
 ├── RealEstate.csv:&nbsp;&nbsp;&nbsp;&nbsp; 부동산(경,공매)및 생활 법률 용어들이 총괄해서 담겨있는 파일입니다..<br/>
 ├── maincode.py:&nbsp;&nbsp;&nbsp;&nbsp; 프로그램 실행의 시작과 끝까지, 모든 소스가 작성되어 있는 메인 파일입니다.<br/>
-
+├── 법률팀(2).pdf:&nbsp;&nbsp;&nbsp;&nbsp; 저희 프로젝트에 대한 전반적인 설명이 들어있습니다.<br/>
 
 # Design
 <img width="60%" alt="스크린샷 2022-06-03 오전 11 38 32" src="https://user-images.githubusercontent.com/101306770/171775940-cf5d34ca-8db6-4c7f-a078-7804f3326e8a.png">
@@ -41,10 +41,10 @@ rlalastjd782/@rlalastjd782 (rlalastjd782@naver.com)
 
 
 # Video(How to work)
+https://youtu.be/IaP_4qrloKs
 - 구동 영상을 촬영해보았습니다 :)<br/>
-- I filmed a video(How to work) :)<br/>
-- 클릭을 하시면, 동영상이 재생됩니다. (If you click, The video will play.) <br/>
-- 추후 추가예정()
+<br/>
+- 해당링크를 통하여 구동영상을 시청하실수 있습니다.
 
 # Data(Send & Receive) Flow
 <img width="60%" alt="스크린샷 2022-06-03 오전 11 56 31" src="https://user-images.githubusercontent.com/101306770/171777744-d1177830-ff24-42f2-9305-dcec306175ba.png">
@@ -56,7 +56,6 @@ rlalastjd782/@rlalastjd782 (rlalastjd782@naver.com)
 
 # Languages
 - JavaScript, Python 이렇게 2개의 랭귀지로 개발되었습니다.<br/>
-- 추가적으로 슬라이드(Wrapper) Animation Effect가 적용되었으니 어떻게 구현이 되었으며 어떤 방식으로 작동되는지는 작성된 ppt파일과 함께 각 파일들을 실행해본 후,<br/>
 - 해당 파일마다 어떻게 적용시켰으며 이유는 무엇인지, 또한 해당 파트는 작동 방식 중, 어떤 부분에 해당하는 지 등<br/>
 - 자세히 수록해 놓았으니 참조하신 후 실행하시면 훨씬 수행과 이해에 있어 쉽게 받아들이실 수 있다고 조심스레 개인적인 사견을 이렇게 남겨봅니다.
 
